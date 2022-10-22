@@ -65,6 +65,7 @@ To get the Estimated distance sensor to work, in most cases, it has to be calibr
 - [Blue Charm Beacons BC021-MultiBeacon](https://bluecharmbeacons.com/product/bluetooth-ble-ibeacon-bc021-multibeacon-with-button-trigger-and-motion-sensor/)
 - [Blue Charm Beacons BC-U1-USB-Powered-MultiBeacon](https://bluecharmbeacons.com/product/bluetooth-ble-ibeacon-bc-u1-multibeacon-usb-powered/)
 - [Blue Charm Beacons BC08-MultiBeacon](https://bluecharmbeacons.com/product/blue-charm-beacons-bluetooth-ble-ibeacon-bc08-multibeacon-w-motion-sensor-and-button-trigger-ble-5-0/)
+- [Blue Charm Beacons BC063B](https://bluecharmbeacons.com/product/water-resistant-bluetooth-ble-ibeacon-bc063b/)
 - Blue Charm Beacons BC037G-GeoPattern-iBeacon (discontinued)
 - Blue Charm Beacons BC037S-SmoothPattern-iBeacon (discontinued)
 - [Feasycom FSC-BP103B](https://www.feasycom.com/bluetooth-ibeacon-da14531)
@@ -72,6 +73,7 @@ To get the Estimated distance sensor to work, in most cases, it has to be calibr
 - [Feasycom FSC-BP108](https://www.feasycom.com/bluetooth-5-1-waterproof-bluetooth-beacon)
 - [NRF51822 iBeacon](https://www.aliexpress.com/item/32826502025.html)
 - [Pawscout Tag](https://pawscout.com/shop/pawscout-tag/)
+- Tesla Model 3
 
 ## Example automation
 
